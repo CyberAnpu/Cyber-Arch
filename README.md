@@ -60,18 +60,18 @@ This setup expects the following side tools to be installed:
 ---
 
 ## 📁 Included Configs
-cava/           → Visualizer in terminal with neon look
-fastfetch/      → Custom themed system info
-fish/           → Fish shell config + aliases + starship prompt
-hypr/           → Hyprland window manager config & helper scripts
-nvim/           → NvChad setup with LSP, formatter & cyberpunk colors
-ranger/         → File manager with image & PDF previews
-rofi/           → Custom scripts: Wi-Fi, Bluetooth, Emoji board, Clipboard & more
-starship.toml   → Cyberpunk terminal prompt with Git & language info
-swaync/         → Notification center with control toggles (Wi-Fi, BT, etc.)
-waybar/         → Top bar with Unicode workspaces, media controls & more
-
-cyberpunk.rasi  → Unified style across all Rofi popups
+Path | Description
+.config/cava/ | Terminal visualizer with neon look
+.config/fastfetch/ | Custom themed system info with cyberpunk layout
+.config/fish/ | Fish shell config with aliases and Starship prompt
+.config/hypr/ | Hyprland WM config and helper scripts
+.config/nvim/ | Full NvChad setup with LSP, formatter, and cyberpunk theme
+.config/ranger/ | File manager with image & PDF preview support
+.config/rofi/ | Custom scripts: Wi-Fi, Bluetooth, Emoji board, Clipboard
+.config/starship.toml | Cyberpunk terminal prompt (with Git & language indicators)
+.config/swaync/ | Notification center and control toggles (Wi-Fi, BT, etc.)
+.config/waybar/ | Top bar with Unicode workspaces and status modules
+.local/share/rofi/themes/ | Rofi theme: cyberpunk.rasi
 
 ---
 
